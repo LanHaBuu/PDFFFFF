@@ -1,0 +1,15 @@
+.home-wrapper {
+    display: flex;
+    justify-content: space-between;
+    height: 100vh;
+
+    .react-pdf__Document {
+        width: 60%;
+    }
+
+    .login {
+        width: 30%;
+        font-size: 30px;
+        margin: auto 0;
+    }
+}
